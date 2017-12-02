@@ -33,7 +33,7 @@ for i in new_list:
 print(sum)
 
 #  --PART TWO ---
-print("---PART ONE ---")
+print("---PART TWO ---")
 t1 = ip[:len(ip)//2]
 t2 = ip[len(ip)//2:]
 sum = 0
